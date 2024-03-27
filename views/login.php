@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Login</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/style.css"> <!-- Agrega tu propio archivo CSS aquí -->
+    <link rel="stylesheet" href="assets/css/login.css"> 
 </head>
 <body>
     <div class="login-container">
